@@ -15,16 +15,12 @@ Workbook for replication project
 
 Added a bit of stuff here
 
-[//]: testing comments (comment #1) 
+<!-- What about html comments -->
 
-[comment]: comment #2 
+<!--  Multiline?
+line 2
+line 3
+-->
 
-[comment]: <> comment #3 
-
-[//]: <> comment #4 
-
-[//]: # comment #5 
-
-[//] comment #6
-
+More text after comments
 

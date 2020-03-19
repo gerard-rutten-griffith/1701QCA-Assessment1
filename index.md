@@ -11,3 +11,15 @@ Workbooks for inventor kit experiments.
 Assessment 1: [Replication Project](/replicationproject/replication.md)
 
 Workbook for replication project
+
+
+Added a bit of stuff here
+
+[//]: testing comments (comment #1)
+[comment]: comment #2
+[comment]: <> comment #3
+[//]: <> comment #4
+[//]: # comment #5
+[//] comment #6
+
+
